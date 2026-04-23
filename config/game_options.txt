@@ -500,23 +500,27 @@ ECONOMY
 ## Overmap Settings ##
 
 ## Put max amount of different event clusters you want to spawn here
-MAX_OVERMAP_EVENT_CLUSTERS 27
+## Было 27
+MAX_OVERMAP_EVENT_CLUSTERS 6
 
 ## Put the maximum amount of overmap events here
-MAX_OVERMAP_EVENTS 500
+## Было 500
+MAX_OVERMAP_EVENTS 50
 
 ## Put the maximum amount of dynamic (runtime loaded) overmap locations here
 MAX_OVERMAP_DYNAMIC_EVENTS 15
 
 ## Size of the overmap squared
-OVERMAP_SIZE 30
+## Было 30
+OVERMAP_SIZE 12
 
 ## Which overmap generator to use
 ## Valid values are: "random", "solar_system"
 OVERMAP_GENERATOR_TYPE solar_system
 
 ## Size of overmap encounters, vertical and width with a 3 tile border
-OVERMAP_ENCOUNTER_SIZE 100
+## Было 100
+OVERMAP_ENCOUNTER_SIZE 127
 
 ## Max dynamic mission count active per ship
 MAX_DYNAMIC_MISSIONS 0.66
